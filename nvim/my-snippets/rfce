@@ -1,0 +1,9 @@
+function Rfce() {
+	return (
+		<div>
+			Rfce
+		</div>
+	)
+}
+
+export default Rfce;
